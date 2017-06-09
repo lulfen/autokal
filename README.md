@@ -1,0 +1,1 @@
+Simple ease-of-life utility completely tailored to my own setup. Used to grab upcoming parts of my choir's schedule and create a message I can copy-paste to our fb-group to remind people what's coming up.
